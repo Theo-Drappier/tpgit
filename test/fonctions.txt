@@ -7,4 +7,5 @@ fonction branche2(){
 	une ligne à modifier
 	une ligne à supprimer
 	une ligne à conserver
+	une ligne test 2
 }
